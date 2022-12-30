@@ -1,0 +1,111 @@
+div{
+    width: 200px;
+    height:400px;
+    background-color:#b4bbcf;
+    float: left;
+    margin: 5px;
+    border: 5px solid white;
+    margin-left: 50px;
+
+
+
+}
+img{
+    width: 200px;
+    height: 130px;
+    margin-top:0px;
+    
+}
+h4{
+    text-decoration:line-through;
+    color: brown;
+}
+#c1{
+    position: absolute;
+    left:10px;
+    text-align: center;
+    
+    
+}
+#c2{
+    margin-left: 260px;
+    position: absolute;
+    top:0px;
+    margin-bottom: 8px;
+}
+#c3{
+    margin-left:260px ;
+    position: absolute;
+    top: 0;
+}
+#c4{
+    margin-left:260px ;
+    position: absolute;
+    top: 0;
+}
+#c5{
+    position: absolute;
+    right: 619px;
+    margin-right: 180px;
+    margin-top: 5px;
+}
+#c6{
+    margin-left:300px ;
+    position: absolute;
+    top: 0;
+    margin-left: 280px;
+}
+#c7{
+    margin-left:250px ;
+    position: absolute;
+    top: 0;
+}
+#c8{
+    margin-left:260px ;
+    position: absolute;
+    top: 0;
+
+
+}
+body{
+    background-image: url(./images/food.jpg);
+}
+#g1{
+    color: antiquewhite;
+}
+a{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+    cursor: pointer;
+}
+a:hover
+{
+    color: blue;
+}
+h1{
+    border:5px solid wheat;
+    color: rgb(255, 248, 248);
+    outline-style: double;
+    outline-color:blue;
+}
+li{
+    color: azure;
+    display: inline;
+    padding: 10px;
+    background-color: black;
+}
+#co{
+color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
